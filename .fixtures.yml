@@ -1,0 +1,5 @@
+fixtures:
+  repositories:
+    ssh: "https://github.com/cwebberOps/puppetconf-ssh.git"
+  symlinks:
+    infra: "#{ source_dir }"

@@ -1,0 +1,5 @@
+# == Class: infra
+class infra {
+
+
+}
