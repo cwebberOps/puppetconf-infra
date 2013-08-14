@@ -4,5 +4,7 @@ fixtures:
     java: "https://github.com/puppetlabs/puppetlabs-java.git"
     jenkins: "https://github.com/jenkinsci/puppet-jenkins.git"
     stdlib: "https://github.com/puppetlabs/puppetlabs-stdlib.git"
+    nodejs: "https://github.com/puppetlabs/puppetlabs-nodejs.git"
+    concat: "https://github.com/puppetlabs/puppetlabs-concat.git"
   symlinks:
     infra: "#{ source_dir }"
