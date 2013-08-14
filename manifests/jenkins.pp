@@ -6,7 +6,7 @@ class infra::jenkins {
   } ->
 
   class {
-    'jenkins':
+    '::jenkins':
   }
 
 }
